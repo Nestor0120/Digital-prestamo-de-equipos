@@ -1,5 +1,5 @@
-module ov2640 (
-    input clk,
+module ov2640 ( Hola
+    input clk, 
     input rst,
     input cam_clk,
 
